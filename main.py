@@ -1,4 +1,3 @@
-from graphics import Canvas
 import time
 import random
 import os
